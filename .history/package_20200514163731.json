@@ -4,6 +4,7 @@
   "description": "build chat with firebase + nodejs + mongodb + expressjs",
   "main": "index.js",
   "scripts": {
+    "test": "node index.js",
     "start": "node index.js"
   },
   "repository": {
