@@ -10,5 +10,3 @@ git push heroku master
 Finally, check that everything is working:
 
 heroku open cool
-
-
